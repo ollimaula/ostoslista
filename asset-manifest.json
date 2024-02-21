@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ostoslista/static/css/main.f1280abc.css",
-    "main.js": "/ostoslista/static/js/main.342ceace.js",
-    "static/js/787.a9c6e3d9.chunk.js": "/ostoslista/static/js/787.a9c6e3d9.chunk.js",
+    "main.css": "/ostoslista/static/css/main.aa10b089.css",
+    "main.js": "/ostoslista/static/js/main.89129a60.js",
+    "static/js/453.cb110848.chunk.js": "/ostoslista/static/js/453.cb110848.chunk.js",
     "index.html": "/ostoslista/index.html",
-    "main.f1280abc.css.map": "/ostoslista/static/css/main.f1280abc.css.map",
-    "main.342ceace.js.map": "/ostoslista/static/js/main.342ceace.js.map",
-    "787.a9c6e3d9.chunk.js.map": "/ostoslista/static/js/787.a9c6e3d9.chunk.js.map"
+    "main.aa10b089.css.map": "/ostoslista/static/css/main.aa10b089.css.map",
+    "main.89129a60.js.map": "/ostoslista/static/js/main.89129a60.js.map",
+    "453.cb110848.chunk.js.map": "/ostoslista/static/js/453.cb110848.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1280abc.css",
-    "static/js/main.342ceace.js"
+    "static/css/main.aa10b089.css",
+    "static/js/main.89129a60.js"
   ]
 }
