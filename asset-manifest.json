@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ostoslista/static/css/main.aa10b089.css",
-    "main.js": "/ostoslista/static/js/main.89129a60.js",
+    "main.css": "/ostoslista/static/css/main.90ac84e2.css",
+    "main.js": "/ostoslista/static/js/main.3741ff8f.js",
     "static/js/453.cb110848.chunk.js": "/ostoslista/static/js/453.cb110848.chunk.js",
     "index.html": "/ostoslista/index.html",
-    "main.aa10b089.css.map": "/ostoslista/static/css/main.aa10b089.css.map",
-    "main.89129a60.js.map": "/ostoslista/static/js/main.89129a60.js.map",
+    "main.90ac84e2.css.map": "/ostoslista/static/css/main.90ac84e2.css.map",
+    "main.3741ff8f.js.map": "/ostoslista/static/js/main.3741ff8f.js.map",
     "453.cb110848.chunk.js.map": "/ostoslista/static/js/453.cb110848.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa10b089.css",
-    "static/js/main.89129a60.js"
+    "static/css/main.90ac84e2.css",
+    "static/js/main.3741ff8f.js"
   ]
 }
